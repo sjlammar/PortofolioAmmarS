@@ -4,7 +4,7 @@ Selamat datang di repositori portofolio saya! Di sini, Anda akan menemukan kumpu
 
 📂 Struktur Direktori
 
-/certificates/
+/Sertifikat/
 Di direktori ini, Anda dapat menemukan berbagai sertifikat yang telah saya peroleh dari kursus, pelatihan, dan sertifikasi resmi yang saya ikuti. Setiap sertifikat disimpan dalam format PDF dan diberi nama sesuai dengan judul kursus atau pelatihannya.
 
 
